@@ -14,17 +14,6 @@ body {
 Here is some body text
 <img src="pearson.png" width="253" height="199"/>
 <a href="http://www.google.com"> Here is a link to google.com </a>
-
-<div id="mydiv"
-onclick="document.getElementById('mydiv').innerHTML = 
-Date()">Show Date() </div>
-
-<script>
-alert("hello from inline Javascript");
-</script>
-
-<script src="myscript.js"> </script>
-
 </body>
 
 
