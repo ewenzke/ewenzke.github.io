@@ -1,1 +1,1 @@
-alert("hello from internal Javascript");
+alert("hello from external Javascript");
